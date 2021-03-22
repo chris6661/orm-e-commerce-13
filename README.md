@@ -16,3 +16,6 @@ To run this application, run: npm start to use on a local server 3001 after clon
  * MySQL2
  * Sequelize
  * Express.js
+
+## Demo
+Due to the size/length of the videos and deomonstrating the applications full functionality, the demo videos can be found in the assets folder. 
