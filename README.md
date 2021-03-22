@@ -18,4 +18,4 @@ To run this application, run: npm start to use on a local server 3001 after clon
  * Express.js
 
 ## Demo
-Due to the size/length of the videos and deomonstrating the applications full functionality, the demo videos can be found in the assets folder. 
+Due to the size/length of the videos and demonstrating the application's full functionality, the demo videos can be found in the assets folder. 
